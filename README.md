@@ -4,10 +4,10 @@ We re-implemented core components from scratch, adapted utilities for compatibil
 
 ---
 
-# Authors
-Valeria Avino
-Leonardo Rocci
-Riccardo Soleo 
+## Authors
+Valeria Avino,
+Leonardo Rocci,
+Riccardo Soleo.
 
 ## 📂 Repository Structure
 
