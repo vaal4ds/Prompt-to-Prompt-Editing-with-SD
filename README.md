@@ -4,6 +4,11 @@ We re-implemented core components from scratch, adapted utilities for compatibil
 
 ---
 
+# Authors
+Valeria Avino
+Leonardo Rocci
+Riccardo Soleo 
+
 ## 📂 Repository Structure
 
 ```
@@ -34,7 +39,7 @@ We re-implemented core components from scratch, adapted utilities for compatibil
 * **Reused with modifications**:
 
   * `nti_utils.py`, `ptp_utils.py`, `seq_aligner.py`
-    → originally from public repos, adapted for compatibility with our hardware and newer model versions.
+    → originally from the public [https://github.com/google/prompt-to-prompt/][Google Prompt to Prompt] repo, adapted for compatibility with our hardware and newer model versions.
 
 ---
 
