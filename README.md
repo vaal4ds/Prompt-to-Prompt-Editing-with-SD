@@ -39,7 +39,7 @@ Riccardo Soleo
 * **Reused with modifications**:
 
   * `nti_utils.py`, `ptp_utils.py`, `seq_aligner.py`
-    → originally from the public [https://github.com/google/prompt-to-prompt/][Google Prompt to Prompt] repo, adapted for compatibility with our hardware and newer model versions.
+    → originally from the public (https://github.com/google/prompt-to-prompt/)[Google Prompt to Prompt] repo, adapted for compatibility with our hardware and newer model versions.
 
 ---
 
