@@ -1,6 +1,6 @@
 # Prompt to Prompt Editing with Stable Diffusion
-This repository contains our experimental implementation of **Prompt-to-Prompt (P2P) editing** and **Null-Text Inversion (NTI)** applied to image generation using **Stable Diffusion** and to audio generation using **Riffusion**.
-We re-implemented core components from scratch, adapted utilities for compatibility with available resources, and reproduced the main editing techniques with our own prompts and pipelines. 
+This repository contains our experimental implementation of **Prompt-to-Prompt (P2P) editing** and **Null-Text Inversion (NTI)** applied to image generation using **Stable Diffusion** and to audio generation using **Riffusion**, for the MsC course in Statistical Machine Learning, 2024/2025.
+
 
 ---
 
